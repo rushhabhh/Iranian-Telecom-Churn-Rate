@@ -56,9 +56,8 @@ To explore or run this project:
 
 1. Clone or download this repository
 2. Set up and activate a Python virtual environment
-3. Install the required packages listed in `requirements.txt`
-4. Place the dataset in the designated `data` folder
-5. Open and run the Jupyter Notebook to see the analysis and results
+3. Install the required packages
+4. Open and run the Jupyter Notebook to see the analysis and results
 
 ---
 
